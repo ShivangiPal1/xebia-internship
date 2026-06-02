@@ -1,14 +1,16 @@
 # Contributor Details
 
 ## Name
-Shivangi Pal  
+
+Shivangi Pal
 
 ## Email
+
 e23cseu0206@bennett.edu.in
 
 ---
 
-#  Role & Responsibilities
+# Role & Responsibilities
 
 ## 🔹 Technical Contributions
 
@@ -37,12 +39,14 @@ e23cseu0206@bennett.edu.in
 - Focused on clarity, structure, and smooth application tracking throughout the platform.
 - Helped create a professional and well-organized system-level design.
 
-#  Contributor Details
+# Contributor Details
 
 ## Name
+
 Shubhangam Mishra
 
 ## Email
+
 e23cseu0345@bennett.edu.in
 
 ---
@@ -101,17 +105,20 @@ During the activity, I was responsible for defining the **Minimum Viable Product
 
 My contribution focused on defining the MVP scope, identifying the minimum set of features required for students and companies, and documenting both included and excluded functionalities to ensure a clear and achievable first version of the Internship Management Platform.
 
-#  Contributor Details
+# Contributor Details
 
 ## Name
+
 Raj Sharma
 
 ## Email
+
 rajsharma222547@gmail.com
+e23cseu0617@bennett.edu.in
 
 ---
 
-#  Role & Responsibilities
+# Role & Responsibilities
 
 ## 🔹 Technical Contributions
 
@@ -161,17 +168,19 @@ rajsharma222547@gmail.com
 - Ensured smooth navigation and clear workflow between modules.
 - Contributed towards building an organized and scalable UI design foundation for the platform.
 
-#  Contributor Details
+# Contributor Details
 
 ## Name
+
 Rishi Gupta
 
 ## Email
+
 rgupta5_be23@thapar.edu
 
 ---
 
-#  Role & Responsibilities
+# Role & Responsibilities
 
 ## 🔹 Technical Contributions
 
@@ -220,5 +229,3 @@ rgupta5_be23@thapar.edu
 - Helped establish a clear and organized role-based system structure.
 - Ensured proper feature accessibility and interaction flow for different user types.
 - Contributed towards creating a scalable and well-documented platform architecture.
-
-
