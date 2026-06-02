@@ -1,0 +1,44 @@
+The Minimum Viable Product (MVP) of the Internship Management Platform is the first basic version of the system that includes only the essential features needed for students and companies to complete the internship application process.
+In this MVP, students can register, create their profile, upload their resume, browse available internships, apply for suitable opportunities, and track their application status. Companies can register, post internship opportunities, view student applications, and accept or reject candidates.
+This MVP focuses mainly on connecting students with companies and managing the internship application workflow digitally.
+
+MVP Features for Students
+•	Sign Up / Login 
+o	Create a new account. 
+o	Securely log in to the platform. 
+•	Create Profile 
+o	Add personal details. 
+o	Add educational information. 
+o	Add skills and interests. 
+•	Upload Resume 
+o	Upload resume in PDF/DOC format. 
+o	Update resume whenever required. 
+•	Browse Internships 
+o	View all available internship opportunities. 
+o	Check internship details such as role, duration, and requirements. 
+•	Apply for Internships 
+o	Submit applications for preferred internships. 
+o	Apply directly through the platform. 
+•	Track Application Status 
+o	View status updates. 
+o	Status examples: 
+	Applied 
+	Under Review 
+	Accepted 
+	Rejected 
+________________________________________
+MVP Features for Companies
+•	Sign Up / Login 
+o	Create a company account. 
+o	Access company dashboard. 
+•	Post Internship Opportunities 
+o	Create internship listings. 
+o	Add role description, requirements, duration, and stipend details. 
+•	View Applications 
+o	Access applications submitted by students. 
+o	Review student profiles and resumes. 
+•	Accept or Reject Candidates 
+o	Shortlist suitable candidates. 
+o	Reject unsuitable candidates. 
+o	Update application status for students.
+
